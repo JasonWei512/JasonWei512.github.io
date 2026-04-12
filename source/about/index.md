@@ -1,8 +1,11 @@
 ---
 title: 关于
 layout: about
+comment: utterances
 ---
 你好！我是魏杰，在网上的常用 ID 是 `JasonWei512`，主要活跃于[知乎](https://www.zhihu.com/people/JasonWei512)和 [GitHub](https://github.com/JasonWei512)。
+
+你也可以通过[邮箱](mailto:JasonWei512@Outlook.com)联系我。
 
 我业余做过的一些有趣的事情：
 
